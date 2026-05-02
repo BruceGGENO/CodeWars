@@ -1,0 +1,3 @@
+function find(arr, el) {
+    return arr.includes(el) ? arr.indexOf(el) : "Not found";
+}
