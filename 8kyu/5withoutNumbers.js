@@ -1,4 +1,4 @@
 function unusualFive() {
-    var n = "lette";
-    return n.length;
+    return "lette".length;
 }
+console.log(unusualFive())
