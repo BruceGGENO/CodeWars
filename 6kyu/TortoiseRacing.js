@@ -5,6 +5,6 @@ function race(v1, v2, g) {
     let minutes = Math.floor((totalSeconds % 3600) / 60)
     let seconds = Math.floor(totalSeconds % 60)
 
-    return hours > 0 || minutes > 0 || seconds > 0 ? [hours, minutes, seconds] : null
+    return v2 > v1 ? [hours, minutes, seconds] : null
 }
 console.log(race(720, 850, 70))
