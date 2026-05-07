@@ -3,9 +3,9 @@
 This repository contains my solutions to Codewars katas.
 
 ## Progress
-- 8 kyu: 51 problems
-- 7 kyu: 20 problems
-- 6 kyu: 12 problems
+- 8 kyu: 54 problems
+- 7 kyu: 21 problems
+- 6 kyu: 13 problems
 - 5 kyu: 1 problem
 
 ## Focus
