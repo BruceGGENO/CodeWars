@@ -3,8 +3,8 @@
 This repository contains my solutions to Codewars katas.
 
 ## Progress
-- 8 kyu: 70 katas
-- 7 kyu: 29 katas
+- 8 kyu: 71 katas
+- 7 kyu: 30 katas
 - 6 kyu: 16 katas
 - 5 kyu: 1 kata
 
