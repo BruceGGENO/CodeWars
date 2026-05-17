@@ -1,9 +1,4 @@
 function moveZeros(arr) {
-    let nonZero = [], zeros = [];
-    for (let i = 0; i < arr.length; i++) {
-        if (arr[i] === 0) zeros.push(arr[i]);
-        else nonZero.push(arr[i]);
-    }
-    return nonZero.concat(zeros);
+  return arr.filter(i=>i!==0).concat(arr.filter(i=>i===0));
 }
 console.log(moveZeros([1, 2, 0, 1, 0, 1, 0, 3, 0, 1]))
