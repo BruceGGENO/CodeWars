@@ -1,0 +1,1 @@
+const stray = numbers => parseInt(numbers.filter(n => numbers.indexOf(n) === numbers.lastIndexOf(n)));
