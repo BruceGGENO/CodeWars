@@ -1,14 +1,17 @@
 function largestPalindromicProduct(lower, upper) {
     let biggest = NaN
-    let prod = 1
-    for (let i = lower; i <= upper; i++) {
-        for (let j = i; j <= upper; j++) {
-            prod = i * j
-            let rev = Number(prod.toString().split('').reverse().join(''))
-            if (prod === rev) biggest = prod
+    for (let i = upper; i >= lower; i--) {
+        if (i * upper < biggest) break
+        for (let j = upper; j >= i; j--) {
+            let prod = i * j;
+            if (prod < biggest) break;
+            if (prod === Number(prod.toString().split('').reverse().join(''))) {
+                biggest = prod;
+                break;
+            }
         }
     }
 
-    return biggest 
+    return biggest
 }
 console.log(largestPalindromicProduct(4, 10))
