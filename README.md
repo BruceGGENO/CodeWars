@@ -7,6 +7,7 @@ This repository contains my solutions to Codewars katas.
 - 7 kyu: 43 katas
 - 6 kyu: 31 katas
 - 5 kyu: 5 katas
+- 4 kyu: 1 kata
 
 ## Focus
 - Fundamentals
