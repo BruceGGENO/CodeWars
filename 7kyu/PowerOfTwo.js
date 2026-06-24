@@ -1,7 +1,4 @@
 function isPowerOfTwo(n) {
-    let check = false;
-    for (let i = 0; i <= n; i++) {
-        if (Math.pow(2, i) === n) check = true
-    }
-    return check
+    return n > 0 && Number.isInteger(Math.log2(n));
 }
+console.log(isPowerOfTwo(40977667))
