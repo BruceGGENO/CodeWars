@@ -1,6 +1,6 @@
 # Codewars JavaScript Solutions
 
-This repository contains my solutions to Codewars katas.
+This repository contains my solutions to Codewars katas. I try to do one each day and push it to this repo
 
 ## Progress
 - 8 kyu: 87 katas
