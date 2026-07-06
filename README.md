@@ -4,7 +4,7 @@ This repository contains my solutions to Codewars katas. I try to do one each da
 
 ## Progress
 - 8 kyu: 92 katas
-- 7 kyu: 51 katas
+- 7 kyu: 52 katas
 - 6 kyu: 38 katas
 - 5 kyu: 6 katas
 - 4 kyu: 1 kata
