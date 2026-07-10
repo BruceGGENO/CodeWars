@@ -8,6 +8,7 @@ This repository contains my solutions to Codewars katas. I try to do one each da
 - 6 kyu: 38 katas
 - 5 kyu: 6 katas
 - 4 kyu: 1 kata
+- 3 kyu: 1 kata
 
 ## Focus
 - Fundamentals
