@@ -21,7 +21,7 @@ function squareDigitsSequence(a) {
         current = nextSquareSum(current);
     }
 
-    return length + 1; // includes the repeated final number
+    return length + 1;
 }
 
 console.log(squareDigitsSequence(103));  
