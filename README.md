@@ -6,7 +6,7 @@ This repository contains my solutions to Codewars katas. I try to do one each da
 - 8 kyu: 110 katas
 - 7 kyu: 66 katas
 - 6 kyu: 45 katas
-- 5 kyu: 9 katas
+- 5 kyu: 10 katas
 - 4 kyu: 1 kata
 - 3 kyu: 1 kata
 
